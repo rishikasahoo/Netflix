@@ -1,4 +1,4 @@
-                                                                                                                       Netflix Landing Page Clone
+                                                                                 Netflix Landing Page Clone
                                                                                                                        
 This is a project repository for creating a clone of the Netflix landing page using HTML and CSS. Below, you'll find an overview of the project structure and code.
 
