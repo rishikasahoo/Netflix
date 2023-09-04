@@ -45,10 +45,9 @@ Getting Started:
 
 To run this project locally, you can follow these steps:
 
-1. Clone this repository to your local machine using Git:
+1. Clone this repository to your local machine using Git:  git clone https://github.com/rishikasahoo/Netflix.git
    
-git clone https://github.com/rishikasahoo/Netflix.git
-
+   
 2. Open the index.html file in a web browser to view the Netflix landing page clone.
 
 Responsive Design:
